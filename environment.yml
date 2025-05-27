@@ -1,0 +1,22 @@
+name: f1-ml
+description: Prédiction des résultats d'une course de F1 (1950-2025)
+Dataset: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020 
+version: 1.0.0
+
+channels:
+  - conda-forge
+  
+dependencies:
+  - python=3.10.17
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - jupyter
+  - ipykernel
+  - openpyxl
+  - xgboost
+  - lightgbm
+  - pip:
+      - catboost

@@ -1,0 +1,22 @@
+,Number,Driver ID,Abbreviation,Full Name,Team,driver_nationality_1,driver_age,nb_courses,nb_podiums,nb_victoires,nb_abandons,position_moy,points_moy,rookie,age_bin,ratio_abandons,points_4y
+0,4,norris,NOR,Lando Norris,McLaren,Britannique,26,128.0,26.0,4.0,34.0,7.8515625,7.421875,False,prime,0.265625,804.0
+1,1,max_verstappen,VER,Max Verstappen,Red Bull Racing,Néerlandais,27,209.0,112.0,63.0,39.0,5.645933014354067,13.935406698564593,False,prime,0.18660287081339713,1750.5
+2,63,russell,RUS,George Russell,Mercedes,Britannique,27,128.0,15.0,3.0,59.0,10.53125,5.1875,False,prime,0.4609375,661.0
+3,12,antonelli,ANT,Andrea Kimi Antonelli,Mercedes,Italien,18,,,,,,,True,young,0.0,0.0
+4,23,albon,ALB,Alexander Albon,Williams,Thaïlandais,29,105.0,2.0,0.0,47.0,11.914285714285715,2.2666666666666666,False,prime,0.44761904761904764,41.0
+5,18,stroll,STR,Lance Stroll,Aston Martin,Canadien,26,168.0,3.0,0.0,95.0,12.369047619047619,1.7023809523809523,False,prime,0.5654761904761905,144.0
+6,27,hulkenberg,HUL,Nico Hulkenberg,Kick Sauber,Allemand,38,,,,,,,True,veteran,0.0,0.0
+7,16,leclerc,LEC,Charles Leclerc,Ferrari,Monégasque,27,149.0,43.0,8.0,41.0,7.557046979865772,9.14765100671141,False,prime,0.2751677852348993,962.0
+8,81,piastri,PIA,Oscar Piastri,McLaren,Australien,24,46.0,10.0,2.0,8.0,7.891304347826087,7.543478260869565,False,young,0.17391304347826086,347.0
+9,44,hamilton,HAM,Lewis Hamilton,Ferrari,Britannique,40,356.0,202.0,105.0,44.0,5.019662921348314,13.540730337078651,False,veteran,0.12359550561797752,1042.5
+10,10,gasly,GAS,Pierre Gasly,Alpine,Français,29,154.0,5.0,1.0,72.0,11.25974025974026,2.7662337662337664,False,prime,0.4675324675324675,227.0
+11,22,tsunoda,TSU,Yuki Tsunoda,Racing Bulls,Japonais,25,90.0,0.0,0.0,52.0,13.522222222222222,0.9666666666666667,False,prime,0.5777777777777777,87.0
+12,31,ocon,OCO,Esteban Ocon,Haas F1 Team,Français,29,156.0,4.0,1.0,81.0,11.224358974358974,2.8205128205128207,False,prime,0.5192307692307693,242.0
+13,87,bearman,BEA,Oliver Bearman,Haas F1 Team,Britannique,20,3.0,0.0,0.0,0.0,9.666666666666666,2.3333333333333335,False,young,0.0,7.0
+14,30,lawson,LAW,Liam Lawson,Red Bull Racing,Néo-zélandais,23,11.0,0.0,0.0,4.0,12.909090909090908,0.5454545454545454,False,young,0.36363636363636365,6.0
+15,5,bortoleto,BOR,Gabriel Bortoleto,Kick Sauber,Brésilien,20,,,,,,,True,young,0.0,0.0
+16,14,alonso,ALO,Fernando Alonso,Aston Martin,Espagnol,44,404.0,106.0,32.0,143.0,8.492574257425742,5.764851485148514,False,veteran,0.35396039603960394,430.0
+17,55,sainz,SAI,Carlos Sainz,Williams,Espagnol,30,208.0,27.0,4.0,86.0,9.274038461538462,5.7860576923076925,False,prime,0.41346153846153844,831.5
+18,7,doohan,DOO,Jack Doohan,Alpine,Australien,22,1.0,0.0,0.0,1.0,15.0,0.0,False,young,1.0,0.0
+19,6,hadjar,HAD,Isack Hadjar,Racing Bulls,Français,20,,,,,,,True,young,0.0,0.0
+21,43,colapinto,FC,Franco Colapinto,Alpine,Argentin,21,0.0,0.0,0.0,0.0,,,True,young,0.0,5.0

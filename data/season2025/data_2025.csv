@@ -1,0 +1,481 @@
+driver_name,constructor_name,driver_nationality_1,driver_age,circuit_name,circuit_type,laps_mean_time,weather_profile,is_home_race,team_points_last_y
+Lando Norris,McLaren,Britannique,26,Australie (Melbourne),semi-urbain,88.3,variable,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Australie (Melbourne),semi-urbain,88.3,variable,0,537.0
+George Russell,Mercedes,Britannique,27,Australie (Melbourne),semi-urbain,88.3,variable,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Australie (Melbourne),semi-urbain,88.3,variable,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Australie (Melbourne),semi-urbain,88.3,variable,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Australie (Melbourne),semi-urbain,88.3,variable,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Australie (Melbourne),semi-urbain,88.3,variable,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Australie (Melbourne),semi-urbain,88.3,variable,0,595.0
+Oscar Piastri,McLaren,Australien,24,Australie (Melbourne),semi-urbain,88.3,variable,1,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Australie (Melbourne),semi-urbain,88.3,variable,0,595.0
+Pierre Gasly,Alpine,Français,29,Australie (Melbourne),semi-urbain,88.3,variable,0,0.0
+Yuki Tsunoda,Racing Bulls,Japonais,25,Australie (Melbourne),semi-urbain,88.3,variable,0,0.0
+Esteban Ocon,Haas F1 Team,Français,29,Australie (Melbourne),semi-urbain,88.3,variable,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Australie (Melbourne),semi-urbain,88.3,variable,0,51.0
+Liam Lawson,Red Bull,Néo-zélandais,23,Australie (Melbourne),semi-urbain,88.3,variable,1,537.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Australie (Melbourne),semi-urbain,88.3,variable,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Australie (Melbourne),semi-urbain,88.3,variable,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Australie (Melbourne),semi-urbain,88.3,variable,0,17.0
+Jack Doohan,Alpine,Australien,22,Australie (Melbourne),semi-urbain,88.3,variable,1,0.0
+Isack Hadjar,Racing Bulls,Français,20,Australie (Melbourne),semi-urbain,88.3,variable,0,0.0
+Lando Norris,McLaren,Britannique,26,Chine (Shanghai),moderne,96.4,pluvieux,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Chine (Shanghai),moderne,96.4,pluvieux,0,537.0
+George Russell,Mercedes,Britannique,27,Chine (Shanghai),moderne,96.4,pluvieux,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Chine (Shanghai),moderne,96.4,pluvieux,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Chine (Shanghai),moderne,96.4,pluvieux,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Chine (Shanghai),moderne,96.4,pluvieux,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Chine (Shanghai),moderne,96.4,pluvieux,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Chine (Shanghai),moderne,96.4,pluvieux,0,595.0
+Oscar Piastri,McLaren,Australien,24,Chine (Shanghai),moderne,96.4,pluvieux,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Chine (Shanghai),moderne,96.4,pluvieux,0,595.0
+Pierre Gasly,Alpine,Français,29,Chine (Shanghai),moderne,96.4,pluvieux,0,0.0
+Yuki Tsunoda,Racing Bulls,Japonais,25,Chine (Shanghai),moderne,96.4,pluvieux,0,0.0
+Esteban Ocon,Haas F1 Team,Français,29,Chine (Shanghai),moderne,96.4,pluvieux,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Chine (Shanghai),moderne,96.4,pluvieux,0,51.0
+Liam Lawson,Red Bull,Néo-zélandais,23,Chine (Shanghai),moderne,96.4,pluvieux,1,537.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Chine (Shanghai),moderne,96.4,pluvieux,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Chine (Shanghai),moderne,96.4,pluvieux,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Chine (Shanghai),moderne,96.4,pluvieux,0,17.0
+Jack Doohan,Alpine,Australien,22,Chine (Shanghai),moderne,96.4,pluvieux,0,0.0
+Isack Hadjar,Racing Bulls,Français,20,Chine (Shanghai),moderne,96.4,pluvieux,0,0.0
+Lando Norris,McLaren,Britannique,26,Japon (Suzuka),technique,90.1,pluvieux,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Japon (Suzuka),technique,90.1,pluvieux,0,537.0
+George Russell,Mercedes,Britannique,27,Japon (Suzuka),technique,90.1,pluvieux,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Japon (Suzuka),technique,90.1,pluvieux,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Japon (Suzuka),technique,90.1,pluvieux,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Japon (Suzuka),technique,90.1,pluvieux,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Japon (Suzuka),technique,90.1,pluvieux,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Japon (Suzuka),technique,90.1,pluvieux,0,595.0
+Oscar Piastri,McLaren,Australien,24,Japon (Suzuka),technique,90.1,pluvieux,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Japon (Suzuka),technique,90.1,pluvieux,0,595.0
+Pierre Gasly,Alpine,Français,29,Japon (Suzuka),technique,90.1,pluvieux,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Japon (Suzuka),technique,90.1,pluvieux,1,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Japon (Suzuka),technique,90.1,pluvieux,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Japon (Suzuka),technique,90.1,pluvieux,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Japon (Suzuka),technique,90.1,pluvieux,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Japon (Suzuka),technique,90.1,pluvieux,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Japon (Suzuka),technique,90.1,pluvieux,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Japon (Suzuka),technique,90.1,pluvieux,0,17.0
+Jack Doohan,Alpine,Australien,22,Japon (Suzuka),technique,90.1,pluvieux,0,0.0
+Isack Hadjar,Racing Bulls,Français,20,Japon (Suzuka),technique,90.1,pluvieux,0,0.0
+Lando Norris,McLaren,Britannique,26,Bahreïn (Sakhir),rapide,87.6,sec,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Bahreïn (Sakhir),rapide,87.6,sec,0,537.0
+George Russell,Mercedes,Britannique,27,Bahreïn (Sakhir),rapide,87.6,sec,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Bahreïn (Sakhir),rapide,87.6,sec,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Bahreïn (Sakhir),rapide,87.6,sec,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Bahreïn (Sakhir),rapide,87.6,sec,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Bahreïn (Sakhir),rapide,87.6,sec,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Bahreïn (Sakhir),rapide,87.6,sec,0,595.0
+Oscar Piastri,McLaren,Australien,24,Bahreïn (Sakhir),rapide,87.6,sec,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Bahreïn (Sakhir),rapide,87.6,sec,0,595.0
+Pierre Gasly,Alpine,Français,29,Bahreïn (Sakhir),rapide,87.6,sec,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Bahreïn (Sakhir),rapide,87.6,sec,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Bahreïn (Sakhir),rapide,87.6,sec,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Bahreïn (Sakhir),rapide,87.6,sec,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Bahreïn (Sakhir),rapide,87.6,sec,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Bahreïn (Sakhir),rapide,87.6,sec,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Bahreïn (Sakhir),rapide,87.6,sec,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Bahreïn (Sakhir),rapide,87.6,sec,0,17.0
+Jack Doohan,Alpine,Australien,22,Bahreïn (Sakhir),rapide,87.6,sec,0,0.0
+Isack Hadjar,Racing Bulls,Français,20,Bahreïn (Sakhir),rapide,87.6,sec,0,0.0
+Lando Norris,McLaren,Britannique,26,Arabie Saoudite (Djeddah),urbain,82.7,sec,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Arabie Saoudite (Djeddah),urbain,82.7,sec,0,537.0
+George Russell,Mercedes,Britannique,27,Arabie Saoudite (Djeddah),urbain,82.7,sec,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Arabie Saoudite (Djeddah),urbain,82.7,sec,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Arabie Saoudite (Djeddah),urbain,82.7,sec,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Arabie Saoudite (Djeddah),urbain,82.7,sec,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Arabie Saoudite (Djeddah),urbain,82.7,sec,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Arabie Saoudite (Djeddah),urbain,82.7,sec,0,595.0
+Oscar Piastri,McLaren,Australien,24,Arabie Saoudite (Djeddah),urbain,82.7,sec,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Arabie Saoudite (Djeddah),urbain,82.7,sec,0,595.0
+Pierre Gasly,Alpine,Français,29,Arabie Saoudite (Djeddah),urbain,82.7,sec,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Arabie Saoudite (Djeddah),urbain,82.7,sec,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Arabie Saoudite (Djeddah),urbain,82.7,sec,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Arabie Saoudite (Djeddah),urbain,82.7,sec,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Arabie Saoudite (Djeddah),urbain,82.7,sec,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Arabie Saoudite (Djeddah),urbain,82.7,sec,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Arabie Saoudite (Djeddah),urbain,82.7,sec,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Arabie Saoudite (Djeddah),urbain,82.7,sec,0,17.0
+Jack Doohan,Alpine,Australien,22,Arabie Saoudite (Djeddah),urbain,82.7,sec,0,0.0
+Isack Hadjar,Racing Bulls,Français,20,Arabie Saoudite (Djeddah),urbain,82.7,sec,0,0.0
+Lando Norris,McLaren,Britannique,26,Miami,urbain,88.2,humide,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Miami,urbain,88.2,humide,0,537.0
+George Russell,Mercedes,Britannique,27,Miami,urbain,88.2,humide,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Miami,urbain,88.2,humide,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Miami,urbain,88.2,humide,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Miami,urbain,88.2,humide,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Miami,urbain,88.2,humide,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Miami,urbain,88.2,humide,0,595.0
+Oscar Piastri,McLaren,Australien,24,Miami,urbain,88.2,humide,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Miami,urbain,88.2,humide,0,595.0
+Pierre Gasly,Alpine,Français,29,Miami,urbain,88.2,humide,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Miami,urbain,88.2,humide,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Miami,urbain,88.2,humide,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Miami,urbain,88.2,humide,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Miami,urbain,88.2,humide,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Miami,urbain,88.2,humide,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Miami,urbain,88.2,humide,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Miami,urbain,88.2,humide,0,17.0
+Jack Doohan,Alpine,Australien,22,Miami,urbain,88.2,humide,0,0.0
+Isack Hadjar,Racing Bulls,Français,20,Miami,urbain,88.2,humide,0,0.0
+Lando Norris,McLaren,Britannique,26,Émilie-Romagne (Imola),classique,85.3,variable,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Émilie-Romagne (Imola),classique,85.3,variable,0,537.0
+George Russell,Mercedes,Britannique,27,Émilie-Romagne (Imola),classique,85.3,variable,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Émilie-Romagne (Imola),classique,85.3,variable,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Émilie-Romagne (Imola),classique,85.3,variable,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Émilie-Romagne (Imola),classique,85.3,variable,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Émilie-Romagne (Imola),classique,85.3,variable,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Émilie-Romagne (Imola),classique,85.3,variable,0,595.0
+Oscar Piastri,McLaren,Australien,24,Émilie-Romagne (Imola),classique,85.3,variable,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Émilie-Romagne (Imola),classique,85.3,variable,0,595.0
+Pierre Gasly,Alpine,Français,29,Émilie-Romagne (Imola),classique,85.3,variable,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Émilie-Romagne (Imola),classique,85.3,variable,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Émilie-Romagne (Imola),classique,85.3,variable,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Émilie-Romagne (Imola),classique,85.3,variable,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Émilie-Romagne (Imola),classique,85.3,variable,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Émilie-Romagne (Imola),classique,85.3,variable,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Émilie-Romagne (Imola),classique,85.3,variable,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Émilie-Romagne (Imola),classique,85.3,variable,0,17.0
+Isack Hadjar,Racing Bulls,Français,20,Émilie-Romagne (Imola),classique,85.3,variable,0,0.0
+Franco Colapinto,Alpine,Argentin,21,Émilie-Romagne (Imola),classique,85.3,variable,1,0.0
+Lando Norris,McLaren,Britannique,26,Monaco (Monte-Carlo),urbain,71.3,sec,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Monaco (Monte-Carlo),urbain,71.3,sec,0,537.0
+George Russell,Mercedes,Britannique,27,Monaco (Monte-Carlo),urbain,71.3,sec,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Monaco (Monte-Carlo),urbain,71.3,sec,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Monaco (Monte-Carlo),urbain,71.3,sec,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Monaco (Monte-Carlo),urbain,71.3,sec,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Monaco (Monte-Carlo),urbain,71.3,sec,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Monaco (Monte-Carlo),urbain,71.3,sec,1,595.0
+Oscar Piastri,McLaren,Australien,24,Monaco (Monte-Carlo),urbain,71.3,sec,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Monaco (Monte-Carlo),urbain,71.3,sec,0,595.0
+Pierre Gasly,Alpine,Français,29,Monaco (Monte-Carlo),urbain,71.3,sec,1,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Monaco (Monte-Carlo),urbain,71.3,sec,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Monaco (Monte-Carlo),urbain,71.3,sec,1,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Monaco (Monte-Carlo),urbain,71.3,sec,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Monaco (Monte-Carlo),urbain,71.3,sec,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Monaco (Monte-Carlo),urbain,71.3,sec,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Monaco (Monte-Carlo),urbain,71.3,sec,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Monaco (Monte-Carlo),urbain,71.3,sec,0,17.0
+Isack Hadjar,Racing Bulls,Français,20,Monaco (Monte-Carlo),urbain,71.3,sec,1,0.0
+Franco Colapinto,Alpine,Argentin,21,Monaco (Monte-Carlo),urbain,71.3,sec,1,0.0
+Lando Norris,McLaren,Britannique,26,Espagne (Barcelone),équilibré,84.9,sec,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Espagne (Barcelone),équilibré,84.9,sec,0,537.0
+George Russell,Mercedes,Britannique,27,Espagne (Barcelone),équilibré,84.9,sec,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Espagne (Barcelone),équilibré,84.9,sec,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Espagne (Barcelone),équilibré,84.9,sec,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Espagne (Barcelone),équilibré,84.9,sec,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Espagne (Barcelone),équilibré,84.9,sec,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Espagne (Barcelone),équilibré,84.9,sec,0,595.0
+Oscar Piastri,McLaren,Australien,24,Espagne (Barcelone),équilibré,84.9,sec,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Espagne (Barcelone),équilibré,84.9,sec,0,595.0
+Pierre Gasly,Alpine,Français,29,Espagne (Barcelone),équilibré,84.9,sec,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Espagne (Barcelone),équilibré,84.9,sec,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Espagne (Barcelone),équilibré,84.9,sec,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Espagne (Barcelone),équilibré,84.9,sec,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Espagne (Barcelone),équilibré,84.9,sec,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Espagne (Barcelone),équilibré,84.9,sec,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Espagne (Barcelone),équilibré,84.9,sec,1,94.0
+Carlos Sainz,Williams,Espagnol,30,Espagne (Barcelone),équilibré,84.9,sec,1,17.0
+Isack Hadjar,Racing Bulls,Français,20,Espagne (Barcelone),équilibré,84.9,sec,0,0.0
+Franco Colapinto,Alpine,Argentin,21,Espagne (Barcelone),équilibré,84.9,sec,1,0.0
+Lando Norris,McLaren,Britannique,26,Canada (Montréal),semi-urbain,75.3,variable,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Canada (Montréal),semi-urbain,75.3,variable,0,537.0
+George Russell,Mercedes,Britannique,27,Canada (Montréal),semi-urbain,75.3,variable,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Canada (Montréal),semi-urbain,75.3,variable,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Canada (Montréal),semi-urbain,75.3,variable,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Canada (Montréal),semi-urbain,75.3,variable,1,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Canada (Montréal),semi-urbain,75.3,variable,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Canada (Montréal),semi-urbain,75.3,variable,0,595.0
+Oscar Piastri,McLaren,Australien,24,Canada (Montréal),semi-urbain,75.3,variable,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Canada (Montréal),semi-urbain,75.3,variable,0,595.0
+Pierre Gasly,Alpine,Français,29,Canada (Montréal),semi-urbain,75.3,variable,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Canada (Montréal),semi-urbain,75.3,variable,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Canada (Montréal),semi-urbain,75.3,variable,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Canada (Montréal),semi-urbain,75.3,variable,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Canada (Montréal),semi-urbain,75.3,variable,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Canada (Montréal),semi-urbain,75.3,variable,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Canada (Montréal),semi-urbain,75.3,variable,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Canada (Montréal),semi-urbain,75.3,variable,0,17.0
+Isack Hadjar,Racing Bulls,Français,20,Canada (Montréal),semi-urbain,75.3,variable,0,0.0
+Franco Colapinto,Alpine,Argentin,21,Canada (Montréal),semi-urbain,75.3,variable,1,0.0
+Lando Norris,McLaren,Britannique,26,Autriche (Spielberg),rapide,64.3,pluvieux,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Autriche (Spielberg),rapide,64.3,pluvieux,0,537.0
+George Russell,Mercedes,Britannique,27,Autriche (Spielberg),rapide,64.3,pluvieux,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Autriche (Spielberg),rapide,64.3,pluvieux,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Autriche (Spielberg),rapide,64.3,pluvieux,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Autriche (Spielberg),rapide,64.3,pluvieux,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Autriche (Spielberg),rapide,64.3,pluvieux,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Autriche (Spielberg),rapide,64.3,pluvieux,0,595.0
+Oscar Piastri,McLaren,Australien,24,Autriche (Spielberg),rapide,64.3,pluvieux,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Autriche (Spielberg),rapide,64.3,pluvieux,0,595.0
+Pierre Gasly,Alpine,Français,29,Autriche (Spielberg),rapide,64.3,pluvieux,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Autriche (Spielberg),rapide,64.3,pluvieux,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Autriche (Spielberg),rapide,64.3,pluvieux,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Autriche (Spielberg),rapide,64.3,pluvieux,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Autriche (Spielberg),rapide,64.3,pluvieux,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Autriche (Spielberg),rapide,64.3,pluvieux,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Autriche (Spielberg),rapide,64.3,pluvieux,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Autriche (Spielberg),rapide,64.3,pluvieux,0,17.0
+Isack Hadjar,Racing Bulls,Français,20,Autriche (Spielberg),rapide,64.3,pluvieux,0,0.0
+Franco Colapinto,Alpine,Argentin,21,Autriche (Spielberg),rapide,64.3,pluvieux,1,0.0
+Lando Norris,McLaren,Britannique,26,Angleterre (Silverstone),rapide,86.1,pluvieux,1,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Angleterre (Silverstone),rapide,86.1,pluvieux,0,537.0
+George Russell,Mercedes,Britannique,27,Angleterre (Silverstone),rapide,86.1,pluvieux,1,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Angleterre (Silverstone),rapide,86.1,pluvieux,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Angleterre (Silverstone),rapide,86.1,pluvieux,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Angleterre (Silverstone),rapide,86.1,pluvieux,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Angleterre (Silverstone),rapide,86.1,pluvieux,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Angleterre (Silverstone),rapide,86.1,pluvieux,0,595.0
+Oscar Piastri,McLaren,Australien,24,Angleterre (Silverstone),rapide,86.1,pluvieux,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Angleterre (Silverstone),rapide,86.1,pluvieux,1,595.0
+Pierre Gasly,Alpine,Français,29,Angleterre (Silverstone),rapide,86.1,pluvieux,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Angleterre (Silverstone),rapide,86.1,pluvieux,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Angleterre (Silverstone),rapide,86.1,pluvieux,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Angleterre (Silverstone),rapide,86.1,pluvieux,1,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Angleterre (Silverstone),rapide,86.1,pluvieux,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Angleterre (Silverstone),rapide,86.1,pluvieux,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Angleterre (Silverstone),rapide,86.1,pluvieux,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Angleterre (Silverstone),rapide,86.1,pluvieux,0,17.0
+Isack Hadjar,Racing Bulls,Français,20,Angleterre (Silverstone),rapide,86.1,pluvieux,0,0.0
+Franco Colapinto,Alpine,Argentin,21,Angleterre (Silverstone),rapide,86.1,pluvieux,1,0.0
+Lando Norris,McLaren,Britannique,26,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,0,537.0
+George Russell,Mercedes,Britannique,27,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,0,595.0
+Oscar Piastri,McLaren,Australien,24,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,0,595.0
+Pierre Gasly,Alpine,Français,29,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,0,17.0
+Isack Hadjar,Racing Bulls,Français,20,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,0,0.0
+Franco Colapinto,Alpine,Argentin,21,Belgique (Spa-Francorchamps),très rapide,105.0,très pluvieux,1,0.0
+Lando Norris,McLaren,Britannique,26,Hongrie (Budapest),technique,77.4,sec,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Hongrie (Budapest),technique,77.4,sec,0,537.0
+George Russell,Mercedes,Britannique,27,Hongrie (Budapest),technique,77.4,sec,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Hongrie (Budapest),technique,77.4,sec,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Hongrie (Budapest),technique,77.4,sec,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Hongrie (Budapest),technique,77.4,sec,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Hongrie (Budapest),technique,77.4,sec,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Hongrie (Budapest),technique,77.4,sec,0,595.0
+Oscar Piastri,McLaren,Australien,24,Hongrie (Budapest),technique,77.4,sec,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Hongrie (Budapest),technique,77.4,sec,0,595.0
+Pierre Gasly,Alpine,Français,29,Hongrie (Budapest),technique,77.4,sec,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Hongrie (Budapest),technique,77.4,sec,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Hongrie (Budapest),technique,77.4,sec,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Hongrie (Budapest),technique,77.4,sec,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Hongrie (Budapest),technique,77.4,sec,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Hongrie (Budapest),technique,77.4,sec,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Hongrie (Budapest),technique,77.4,sec,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Hongrie (Budapest),technique,77.4,sec,0,17.0
+Isack Hadjar,Racing Bulls,Français,20,Hongrie (Budapest),technique,77.4,sec,0,0.0
+Franco Colapinto,Alpine,Argentin,21,Hongrie (Budapest),technique,77.4,sec,1,0.0
+Lando Norris,McLaren,Britannique,26,Pays-Bas (Zandvoort),rapide,72.7,variable,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Pays-Bas (Zandvoort),rapide,72.7,variable,1,537.0
+George Russell,Mercedes,Britannique,27,Pays-Bas (Zandvoort),rapide,72.7,variable,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Pays-Bas (Zandvoort),rapide,72.7,variable,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Pays-Bas (Zandvoort),rapide,72.7,variable,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Pays-Bas (Zandvoort),rapide,72.7,variable,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Pays-Bas (Zandvoort),rapide,72.7,variable,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Pays-Bas (Zandvoort),rapide,72.7,variable,0,595.0
+Oscar Piastri,McLaren,Australien,24,Pays-Bas (Zandvoort),rapide,72.7,variable,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Pays-Bas (Zandvoort),rapide,72.7,variable,0,595.0
+Pierre Gasly,Alpine,Français,29,Pays-Bas (Zandvoort),rapide,72.7,variable,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Pays-Bas (Zandvoort),rapide,72.7,variable,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Pays-Bas (Zandvoort),rapide,72.7,variable,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Pays-Bas (Zandvoort),rapide,72.7,variable,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Pays-Bas (Zandvoort),rapide,72.7,variable,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Pays-Bas (Zandvoort),rapide,72.7,variable,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Pays-Bas (Zandvoort),rapide,72.7,variable,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Pays-Bas (Zandvoort),rapide,72.7,variable,0,17.0
+Isack Hadjar,Racing Bulls,Français,20,Pays-Bas (Zandvoort),rapide,72.7,variable,0,0.0
+Franco Colapinto,Alpine,Argentin,21,Pays-Bas (Zandvoort),rapide,72.7,variable,1,0.0
+Lando Norris,McLaren,Britannique,26,Italie (Monza),ultra-rapide,63.7,sec,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Italie (Monza),ultra-rapide,63.7,sec,0,537.0
+George Russell,Mercedes,Britannique,27,Italie (Monza),ultra-rapide,63.7,sec,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Italie (Monza),ultra-rapide,63.7,sec,1,433.0
+Alexander Albon,Williams,Thaïlandais,29,Italie (Monza),ultra-rapide,63.7,sec,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Italie (Monza),ultra-rapide,63.7,sec,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Italie (Monza),ultra-rapide,63.7,sec,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Italie (Monza),ultra-rapide,63.7,sec,0,595.0
+Oscar Piastri,McLaren,Australien,24,Italie (Monza),ultra-rapide,63.7,sec,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Italie (Monza),ultra-rapide,63.7,sec,0,595.0
+Pierre Gasly,Alpine,Français,29,Italie (Monza),ultra-rapide,63.7,sec,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Italie (Monza),ultra-rapide,63.7,sec,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Italie (Monza),ultra-rapide,63.7,sec,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Italie (Monza),ultra-rapide,63.7,sec,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Italie (Monza),ultra-rapide,63.7,sec,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Italie (Monza),ultra-rapide,63.7,sec,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Italie (Monza),ultra-rapide,63.7,sec,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Italie (Monza),ultra-rapide,63.7,sec,0,17.0
+Isack Hadjar,Racing Bulls,Français,20,Italie (Monza),ultra-rapide,63.7,sec,0,0.0
+Franco Colapinto,Alpine,Argentin,21,Italie (Monza),ultra-rapide,63.7,sec,1,0.0
+Lando Norris,McLaren,Britannique,26,Azerbaïdjan (Bakou),urbain,100.2,sec,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Azerbaïdjan (Bakou),urbain,100.2,sec,0,537.0
+George Russell,Mercedes,Britannique,27,Azerbaïdjan (Bakou),urbain,100.2,sec,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Azerbaïdjan (Bakou),urbain,100.2,sec,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Azerbaïdjan (Bakou),urbain,100.2,sec,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Azerbaïdjan (Bakou),urbain,100.2,sec,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Azerbaïdjan (Bakou),urbain,100.2,sec,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Azerbaïdjan (Bakou),urbain,100.2,sec,0,595.0
+Oscar Piastri,McLaren,Australien,24,Azerbaïdjan (Bakou),urbain,100.2,sec,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Azerbaïdjan (Bakou),urbain,100.2,sec,0,595.0
+Pierre Gasly,Alpine,Français,29,Azerbaïdjan (Bakou),urbain,100.2,sec,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Azerbaïdjan (Bakou),urbain,100.2,sec,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Azerbaïdjan (Bakou),urbain,100.2,sec,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Azerbaïdjan (Bakou),urbain,100.2,sec,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Azerbaïdjan (Bakou),urbain,100.2,sec,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Azerbaïdjan (Bakou),urbain,100.2,sec,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Azerbaïdjan (Bakou),urbain,100.2,sec,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Azerbaïdjan (Bakou),urbain,100.2,sec,0,17.0
+Isack Hadjar,Racing Bulls,Français,20,Azerbaïdjan (Bakou),urbain,100.2,sec,0,0.0
+Franco Colapinto,Alpine,Argentin,21,Azerbaïdjan (Bakou),urbain,100.2,sec,1,0.0
+Lando Norris,McLaren,Britannique,26,Singapour (Marina Bay),urbain,110.3,humide,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Singapour (Marina Bay),urbain,110.3,humide,0,537.0
+George Russell,Mercedes,Britannique,27,Singapour (Marina Bay),urbain,110.3,humide,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Singapour (Marina Bay),urbain,110.3,humide,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Singapour (Marina Bay),urbain,110.3,humide,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Singapour (Marina Bay),urbain,110.3,humide,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Singapour (Marina Bay),urbain,110.3,humide,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Singapour (Marina Bay),urbain,110.3,humide,0,595.0
+Oscar Piastri,McLaren,Australien,24,Singapour (Marina Bay),urbain,110.3,humide,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Singapour (Marina Bay),urbain,110.3,humide,0,595.0
+Pierre Gasly,Alpine,Français,29,Singapour (Marina Bay),urbain,110.3,humide,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Singapour (Marina Bay),urbain,110.3,humide,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Singapour (Marina Bay),urbain,110.3,humide,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Singapour (Marina Bay),urbain,110.3,humide,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Singapour (Marina Bay),urbain,110.3,humide,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Singapour (Marina Bay),urbain,110.3,humide,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Singapour (Marina Bay),urbain,110.3,humide,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Singapour (Marina Bay),urbain,110.3,humide,0,17.0
+Isack Hadjar,Racing Bulls,Français,20,Singapour (Marina Bay),urbain,110.3,humide,0,0.0
+Franco Colapinto,Alpine,Argentin,21,Singapour (Marina Bay),urbain,110.3,humide,1,0.0
+Lando Norris,McLaren,Britannique,26,États-Unis (Austin),moderne,93.4,sec,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,États-Unis (Austin),moderne,93.4,sec,0,537.0
+George Russell,Mercedes,Britannique,27,États-Unis (Austin),moderne,93.4,sec,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,États-Unis (Austin),moderne,93.4,sec,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,États-Unis (Austin),moderne,93.4,sec,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,États-Unis (Austin),moderne,93.4,sec,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,États-Unis (Austin),moderne,93.4,sec,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,États-Unis (Austin),moderne,93.4,sec,0,595.0
+Oscar Piastri,McLaren,Australien,24,États-Unis (Austin),moderne,93.4,sec,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,États-Unis (Austin),moderne,93.4,sec,0,595.0
+Pierre Gasly,Alpine,Français,29,États-Unis (Austin),moderne,93.4,sec,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,États-Unis (Austin),moderne,93.4,sec,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,États-Unis (Austin),moderne,93.4,sec,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,États-Unis (Austin),moderne,93.4,sec,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,États-Unis (Austin),moderne,93.4,sec,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,États-Unis (Austin),moderne,93.4,sec,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,États-Unis (Austin),moderne,93.4,sec,0,94.0
+Carlos Sainz,Williams,Espagnol,30,États-Unis (Austin),moderne,93.4,sec,0,17.0
+Isack Hadjar,Racing Bulls,Français,20,États-Unis (Austin),moderne,93.4,sec,0,0.0
+Franco Colapinto,Alpine,Argentin,21,États-Unis (Austin),moderne,93.4,sec,1,0.0
+Lando Norris,McLaren,Britannique,26,Mexique (Mexico City),altitude,77.3,sec,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Mexique (Mexico City),altitude,77.3,sec,0,537.0
+George Russell,Mercedes,Britannique,27,Mexique (Mexico City),altitude,77.3,sec,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Mexique (Mexico City),altitude,77.3,sec,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Mexique (Mexico City),altitude,77.3,sec,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Mexique (Mexico City),altitude,77.3,sec,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Mexique (Mexico City),altitude,77.3,sec,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Mexique (Mexico City),altitude,77.3,sec,0,595.0
+Oscar Piastri,McLaren,Australien,24,Mexique (Mexico City),altitude,77.3,sec,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Mexique (Mexico City),altitude,77.3,sec,0,595.0
+Pierre Gasly,Alpine,Français,29,Mexique (Mexico City),altitude,77.3,sec,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Mexique (Mexico City),altitude,77.3,sec,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Mexique (Mexico City),altitude,77.3,sec,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Mexique (Mexico City),altitude,77.3,sec,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Mexique (Mexico City),altitude,77.3,sec,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Mexique (Mexico City),altitude,77.3,sec,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Mexique (Mexico City),altitude,77.3,sec,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Mexique (Mexico City),altitude,77.3,sec,0,17.0
+Isack Hadjar,Racing Bulls,Français,20,Mexique (Mexico City),altitude,77.3,sec,0,0.0
+Franco Colapinto,Alpine,Argentin,21,Mexique (Mexico City),altitude,77.3,sec,1,0.0
+Lando Norris,McLaren,Britannique,26,Brésil (São Paulo),rapide,71.9,variable,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Brésil (São Paulo),rapide,71.9,variable,0,537.0
+George Russell,Mercedes,Britannique,27,Brésil (São Paulo),rapide,71.9,variable,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Brésil (São Paulo),rapide,71.9,variable,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Brésil (São Paulo),rapide,71.9,variable,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Brésil (São Paulo),rapide,71.9,variable,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Brésil (São Paulo),rapide,71.9,variable,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Brésil (São Paulo),rapide,71.9,variable,0,595.0
+Oscar Piastri,McLaren,Australien,24,Brésil (São Paulo),rapide,71.9,variable,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Brésil (São Paulo),rapide,71.9,variable,0,595.0
+Pierre Gasly,Alpine,Français,29,Brésil (São Paulo),rapide,71.9,variable,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Brésil (São Paulo),rapide,71.9,variable,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Brésil (São Paulo),rapide,71.9,variable,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Brésil (São Paulo),rapide,71.9,variable,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Brésil (São Paulo),rapide,71.9,variable,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Brésil (São Paulo),rapide,71.9,variable,1,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Brésil (São Paulo),rapide,71.9,variable,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Brésil (São Paulo),rapide,71.9,variable,0,17.0
+Isack Hadjar,Racing Bulls,Français,20,Brésil (São Paulo),rapide,71.9,variable,0,0.0
+Franco Colapinto,Alpine,Argentin,21,Brésil (São Paulo),rapide,71.9,variable,1,0.0
+Lando Norris,McLaren,Britannique,26,Las Vegas,urbain,87.5,sec,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Las Vegas,urbain,87.5,sec,0,537.0
+George Russell,Mercedes,Britannique,27,Las Vegas,urbain,87.5,sec,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Las Vegas,urbain,87.5,sec,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Las Vegas,urbain,87.5,sec,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Las Vegas,urbain,87.5,sec,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Las Vegas,urbain,87.5,sec,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Las Vegas,urbain,87.5,sec,0,595.0
+Oscar Piastri,McLaren,Australien,24,Las Vegas,urbain,87.5,sec,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Las Vegas,urbain,87.5,sec,0,595.0
+Pierre Gasly,Alpine,Français,29,Las Vegas,urbain,87.5,sec,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Las Vegas,urbain,87.5,sec,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Las Vegas,urbain,87.5,sec,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Las Vegas,urbain,87.5,sec,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Las Vegas,urbain,87.5,sec,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Las Vegas,urbain,87.5,sec,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Las Vegas,urbain,87.5,sec,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Las Vegas,urbain,87.5,sec,0,17.0
+Isack Hadjar,Racing Bulls,Français,20,Las Vegas,urbain,87.5,sec,0,0.0
+Franco Colapinto,Alpine,Argentin,21,Las Vegas,urbain,87.5,sec,1,0.0
+Lando Norris,McLaren,Britannique,26,Qatar (Losail),moderne,88.7,sec,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Qatar (Losail),moderne,88.7,sec,0,537.0
+George Russell,Mercedes,Britannique,27,Qatar (Losail),moderne,88.7,sec,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Qatar (Losail),moderne,88.7,sec,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Qatar (Losail),moderne,88.7,sec,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Qatar (Losail),moderne,88.7,sec,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Qatar (Losail),moderne,88.7,sec,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Qatar (Losail),moderne,88.7,sec,0,595.0
+Oscar Piastri,McLaren,Australien,24,Qatar (Losail),moderne,88.7,sec,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Qatar (Losail),moderne,88.7,sec,0,595.0
+Pierre Gasly,Alpine,Français,29,Qatar (Losail),moderne,88.7,sec,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Qatar (Losail),moderne,88.7,sec,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Qatar (Losail),moderne,88.7,sec,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Qatar (Losail),moderne,88.7,sec,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Qatar (Losail),moderne,88.7,sec,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Qatar (Losail),moderne,88.7,sec,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Qatar (Losail),moderne,88.7,sec,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Qatar (Losail),moderne,88.7,sec,0,17.0
+Isack Hadjar,Racing Bulls,Français,20,Qatar (Losail),moderne,88.7,sec,0,0.0
+Franco Colapinto,Alpine,Argentin,21,Qatar (Losail),moderne,88.7,sec,1,0.0
+Lando Norris,McLaren,Britannique,26,Abou Dhabi (Yas Marina),moderne,89.4,sec,0,609.0
+Max Verstappen,Red Bull,Néerlandais,27,Abou Dhabi (Yas Marina),moderne,89.4,sec,0,537.0
+George Russell,Mercedes,Britannique,27,Abou Dhabi (Yas Marina),moderne,89.4,sec,0,433.0
+Andrea Kimi Antonelli,Mercedes,Italien,18,Abou Dhabi (Yas Marina),moderne,89.4,sec,0,433.0
+Alexander Albon,Williams,Thaïlandais,29,Abou Dhabi (Yas Marina),moderne,89.4,sec,1,17.0
+Lance Stroll,Aston Martin,Canadien,26,Abou Dhabi (Yas Marina),moderne,89.4,sec,0,94.0
+Nico Hulkenberg,Kick Sauber,Allemand,38,Abou Dhabi (Yas Marina),moderne,89.4,sec,0,0.0
+Charles Leclerc,Ferrari,Monégasque,27,Abou Dhabi (Yas Marina),moderne,89.4,sec,0,595.0
+Oscar Piastri,McLaren,Australien,24,Abou Dhabi (Yas Marina),moderne,89.4,sec,0,609.0
+Lewis Hamilton,Ferrari,Britannique,40,Abou Dhabi (Yas Marina),moderne,89.4,sec,0,595.0
+Pierre Gasly,Alpine,Français,29,Abou Dhabi (Yas Marina),moderne,89.4,sec,0,0.0
+Yuki Tsunoda,Red Bull,Japonais,25,Abou Dhabi (Yas Marina),moderne,89.4,sec,0,537.0
+Esteban Ocon,Haas F1 Team,Français,29,Abou Dhabi (Yas Marina),moderne,89.4,sec,0,51.0
+Oliver Bearman,Haas F1 Team,Britannique,20,Abou Dhabi (Yas Marina),moderne,89.4,sec,0,51.0
+Liam Lawson,Racing Bulls,Néo-zélandais,23,Abou Dhabi (Yas Marina),moderne,89.4,sec,1,0.0
+Gabriel Bortoleto,Kick Sauber,Brésilien,20,Abou Dhabi (Yas Marina),moderne,89.4,sec,0,0.0
+Fernando Alonso,Aston Martin,Espagnol,44,Abou Dhabi (Yas Marina),moderne,89.4,sec,0,94.0
+Carlos Sainz,Williams,Espagnol,30,Abou Dhabi (Yas Marina),moderne,89.4,sec,0,17.0
+Isack Hadjar,Racing Bulls,Français,20,Abou Dhabi (Yas Marina),moderne,89.4,sec,0,0.0
+Franco Colapinto,Alpine,Argentin,21,Abou Dhabi (Yas Marina),moderne,89.4,sec,1,0.0
